@@ -1,0 +1,15 @@
+C:\BTL_LapTrinhMang\RacingServer\RacingServer\bin\Debug\net8.0\RacingServer.exe
+C:\BTL_LapTrinhMang\RacingServer\RacingServer\bin\Debug\net8.0\RacingServer.deps.json
+C:\BTL_LapTrinhMang\RacingServer\RacingServer\bin\Debug\net8.0\RacingServer.runtimeconfig.json
+C:\BTL_LapTrinhMang\RacingServer\RacingServer\bin\Debug\net8.0\RacingServer.dll
+C:\BTL_LapTrinhMang\RacingServer\RacingServer\bin\Debug\net8.0\RacingServer.pdb
+C:\BTL_LapTrinhMang\RacingServer\RacingServer\obj\Debug\net8.0\RacingServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTL_LapTrinhMang\RacingServer\RacingServer\obj\Debug\net8.0\RacingServer.AssemblyInfoInputs.cache
+C:\BTL_LapTrinhMang\RacingServer\RacingServer\obj\Debug\net8.0\RacingServer.AssemblyInfo.cs
+C:\BTL_LapTrinhMang\RacingServer\RacingServer\obj\Debug\net8.0\RacingServer.csproj.CoreCompileInputs.cache
+C:\BTL_LapTrinhMang\RacingServer\RacingServer\obj\Debug\net8.0\RacingServer.sourcelink.json
+C:\BTL_LapTrinhMang\RacingServer\RacingServer\obj\Debug\net8.0\RacingServer.dll
+C:\BTL_LapTrinhMang\RacingServer\RacingServer\obj\Debug\net8.0\refint\RacingServer.dll
+C:\BTL_LapTrinhMang\RacingServer\RacingServer\obj\Debug\net8.0\RacingServer.pdb
+C:\BTL_LapTrinhMang\RacingServer\RacingServer\obj\Debug\net8.0\RacingServer.genruntimeconfig.cache
+C:\BTL_LapTrinhMang\RacingServer\RacingServer\obj\Debug\net8.0\ref\RacingServer.dll
